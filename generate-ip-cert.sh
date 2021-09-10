@@ -19,8 +19,8 @@ prompt = no
 countryName = XX
 stateOrProvinceName = N/A
 localityName = N/A
-organizationName = Self-signed certificate
-commonName = $IP: Self-signed certificate
+organizationName = $IP
+commonName = $IP
 
 [req_ext]
 subjectAltName = @alt_names
